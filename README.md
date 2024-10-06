@@ -3,18 +3,7 @@
   <img width="700" alt="a"  src="https://github.com/user-attachments/assets/6eef093b-b3cf-4833-8fc5-57236fb8911a">
 
 ## Overview
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <!-- Your Text -->
-    My team and I developed an innovative miniature smart house using Arduino controllers. The house integrates various smart technologies such as an automated smart entry system, gas sensors, and fan activation to ensure safety and convenience.
-  </div>
-  
-  <div style="flex: 1; margin-left: 20px;">
-    <!-- Embed YouTube Video -->
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
-
+My team and I developed an innovative miniature smart house model that integrates various smart technologies using Arduino controllers to enhance automation, safety, and convenience. This project provided us with an invaluable opportunity to explore how interconnected devices can work in harmony to create a more efficient living environment. By designing and building the smart house, we honed our skills in electronics and programming, learning to troubleshoot and optimize each component's performance. The collaborative nature of the project allowed us to exchange ideas and solutions, fostering a strong team dynamic and enhancing our problem-solving abilities. Through this hands-on experience, we also gained insights into the future of smart homes and their potential to transform everyday living, making it safer and more comfortable. This project deepened our appreciation for the role of technology in enhancing quality of life and reinforced our commitment to pursuing careers in robotics and automation.
 ## Main Features of the Miniature Smart House
 
 - **Smart Entry System:** The doors (including the garage) open via RFID tag or security code for controlled access.
