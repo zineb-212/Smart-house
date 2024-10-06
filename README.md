@@ -1,4 +1,4 @@
-# Smart-house
+# Smart-house 🏠✨
 
   <img width="700" alt="a"  src="https://github.com/user-attachments/assets/6eef093b-b3cf-4833-8fc5-57236fb8911a">
 
